@@ -1,7 +1,24 @@
-# Vue 3 + Vite
+# Search Company Data Front
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A simple app to grab company data from LinkedIn made with Vite.
 
-## Recommended IDE Setup
+This project works with the Search Company Data API project → 
+https://github.com/etiennefischer/search-company-data-api
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+## Set up
+
+1. Install dependencies
+```
+    npm install
+```
+
+2. Start the server
+```
+    npm run dev
+```
+
+## Tools used
+
+1. Vite (with vue) → https://vitejs.dev/
+2. TailWind CSS → https://tailwindcss.com/
+3. Axios → https://axios-http.com/
